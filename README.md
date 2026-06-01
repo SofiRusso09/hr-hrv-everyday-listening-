@@ -1,7 +1,7 @@
 # HR and HRV as Physiological Indicators for Everyday Listening
 
 **MSc Thesis — Sofia Russo**  
-DTU (Technical University of Denmark) & Politecnico di Torino  
+DTU (Technical University of Denmark)   
 In collaboration with Eriksholm Research Center (Oticon)
 
 ---
@@ -100,8 +100,4 @@ MIT License — free to use and adapt with attribution.
 
 ---
 
-## Citation
 
-If you use this pipeline, please cite:
-
-> Russo, S. (2026). *Heart Rate and Heart Rate Variability as Physiological Indicators for Everyday Listening*. MSc Thesis, DTU / Politecnico di Torino.
