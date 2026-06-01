@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Outputs and data (not shared publicly)
+outputs/
+data/
+*.rds
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
